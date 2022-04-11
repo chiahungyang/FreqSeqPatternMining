@@ -1,0 +1,4 @@
+Total number of sequences = 513
+Minimum length of sequences = 103
+Maximum length of sequences = 18492
+Total number of base pairs = 1624389
